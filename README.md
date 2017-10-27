@@ -1,3 +1,3 @@
 # USelfMade
 
-[uselfmade.com](www.uselfmade.com)
+[uselfmade.com](http://www.uselfmade.com)
